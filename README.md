@@ -11,5 +11,5 @@ Preprocessing the dataset, analyzing the data, and presenting information graphi
 
 # Graphical Representation
 Bar Diagram representation are given for each tasks given.
-A bar plot is easy to read and interpret.
+A bar plot is used as it is easy to read and interpret.
 It can easily handle large amount of data.
